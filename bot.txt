@@ -1,0 +1,5 @@
+{
+"ip":"SatyamGamingSmp.aternos.me",
+"port":"32859",
+"name":"Saytam"
+}
